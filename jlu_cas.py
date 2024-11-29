@@ -1,3 +1,8 @@
+ # DES加密解密 
+ # @Copyright Copyright (c) 2006 
+ # @author Guapo 
+ # @see DESCore 
+ 
 import requests
 from urllib.parse import quote, unquote
 from bs4 import BeautifulSoup
